@@ -16,9 +16,6 @@ Education
 * B.S. in Mechatronics Engineering, Shandong University, China, Sep 2012--Jul 2016
 
 Work experience
-
-Independent research at Qingdao University of Science and Technology. Jul 2020 – Dec 2022
-
 ======
 * Jul 2020 – Dec 2022: Independent research at Qingdao University of Science and Technology, Qingdao, China.
   * Focus on topics related to machine learning and applied AI.
@@ -32,7 +29,6 @@ Skills
   * Sub-skill C++
 * Skill 3 Chinese, English
 
-
 For more info
-------
+======
 More info about Academic can be found in the [Google Scholar](https://scholar.google.com/citations?user=hswe-2IAAAAJ&hl=en), the [ORCID](https://orcid.org/0000-0003-4776-4887), and the [GitHub](https://github.com/ZuominYang/resume/). 
