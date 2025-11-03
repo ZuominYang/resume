@@ -31,4 +31,4 @@ Skills
 
 For more info
 ======
-More info about Academic can be found in the [Google Scholar](https://scholar.google.com/citations?user=hswe-2IAAAAJ&hl=en), the [ORCID](https://orcid.org/0000-0003-4776-4887), and the [GitHub](https://github.com/ZuominYang/resume/). 
+More info about Academic can be found in the [Google Scholar](https://scholar.google.com/citations?user=hswe-2IAAAAJ&hl=en), the [ORCID](https://orcid.org/0000-0003-4776-4887), and the [GitHub](https://github.com/ZuominYang/). 
