@@ -139,7 +139,7 @@ og_description           :  # Social media default site image description
 social:
   type                   : Person
   name                   : Zuomin Yang
-  links: https://www.linkedin.com/in/zuomin-yang-423ab4304/
+  links: "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
 
 
 # Analytics
