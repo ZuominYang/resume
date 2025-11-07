@@ -2,7 +2,7 @@
 title: "2023 IEEE Student Branch Leadership Camp"
 date: 2023-10-27
 #permalink: /blog/aiact-2021/
-image: zuominyang.github.io//images/2023-10-27-IEEE-Student-Branch-Leadership-Camp.png
+image: zuominyang.github.io/images/2023-10-27-IEEE-Student-Branch-Leadership-Camp.png
 ---
 
 <p align="center">
